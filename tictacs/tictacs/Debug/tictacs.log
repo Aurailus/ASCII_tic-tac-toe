@@ -1,0 +1,4 @@
+﻿  tictacs.cpp
+c:\users\benjamin collings\source\repos\laptest\tictacs\tictacs\tictacs.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  tictacs.vcxproj -> C:\Users\Benjamin Collings\Source\Repos\laptest\tictacs\Debug\tictacs.exe
+  tictacs.vcxproj -> C:\Users\Benjamin Collings\Source\Repos\laptest\tictacs\Debug\tictacs.pdb (Full PDB)
